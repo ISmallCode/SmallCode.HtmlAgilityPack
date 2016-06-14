@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1DA45D60-3A9A-4349-BAFF-A53AD8A26B16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{065E3D2E-F560-44C9-9609-E541EF843528}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SmallCode.AspNetCore.HtmlAgilityPack", "src\SmallCode.AspNetCore.HtmlAgilityPack\SmallCode.AspNetCore.HtmlAgilityPack.xproj", "{F8F54629-FA08-4D7D-BB93-645AE3A0ADB4}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SmallCode.AspNetCore.HtmlAgilityPack.Test", "src\SmallCode.AspNetCore.HtmlAgilityPack.Test\SmallCode.AspNetCore.HtmlAgilityPack.Test.xproj", "{24E235B4-1237-4207-8F04-E1C6E9FBB0F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F54629-FA08-4D7D-BB93-645AE3A0ADB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F54629-FA08-4D7D-BB93-645AE3A0ADB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F54629-FA08-4D7D-BB93-645AE3A0ADB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F54629-FA08-4D7D-BB93-645AE3A0ADB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E235B4-1237-4207-8F04-E1C6E9FBB0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E235B4-1237-4207-8F04-E1C6E9FBB0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E235B4-1237-4207-8F04-E1C6E9FBB0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E235B4-1237-4207-8F04-E1C6E9FBB0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F8F54629-FA08-4D7D-BB93-645AE3A0ADB4} = {1DA45D60-3A9A-4349-BAFF-A53AD8A26B16}
+		{24E235B4-1237-4207-8F04-E1C6E9FBB0F1} = {1DA45D60-3A9A-4349-BAFF-A53AD8A26B16}
+	EndGlobalSection
+EndGlobal
