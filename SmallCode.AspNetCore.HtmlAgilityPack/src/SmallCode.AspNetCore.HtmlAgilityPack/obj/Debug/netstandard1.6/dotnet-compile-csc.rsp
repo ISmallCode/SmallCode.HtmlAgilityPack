@@ -1,6 +1,6 @@
 ﻿-d:DEBUG
 -d:TRACE
--d:NETCOREAPP1_0
+-d:NETSTANDARD1_6
 -nowarn:CS1701
 -nowarn:CS1702
 -nowarn:CS1705
@@ -8,8 +8,8 @@
 -debug:full
 -nostdlib
 -nologo
-"D:\document\work\frame\SmallCode.HtmlAgilityPack\SmallCode.AspNetCore.HtmlAgilityPack\src\SmallCode.AspNetCore.HtmlAgilityPack\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"D:\document\work\frame\SmallCode.HtmlAgilityPack\SmallCode.AspNetCore.HtmlAgilityPack\src\SmallCode.AspNetCore.HtmlAgilityPack\bin\Debug\netcoreapp1.0\SmallCode.AspNetCore.HtmlAgilityPack.dll"
+"D:\document\work\frame\SmallCode.HtmlAgilityPack\SmallCode.AspNetCore.HtmlAgilityPack\src\SmallCode.AspNetCore.HtmlAgilityPack\obj\Debug\netstandard1.6\dotnet-compile.assemblyinfo.cs"
+-out:"D:\document\work\frame\SmallCode.HtmlAgilityPack\SmallCode.AspNetCore.HtmlAgilityPack\src\SmallCode.AspNetCore.HtmlAgilityPack\bin\Debug\netstandard1.6\SmallCode.AspNetCore.HtmlAgilityPack.dll"
 -r:"C:\Users\乐\.nuget\packages\Microsoft.AspNetCore.Diagnostics\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Diagnostics.dll"
 -r:"C:\Users\乐\.nuget\packages\Microsoft.AspNetCore.Diagnostics.Abstractions\1.0.0\lib\netstandard1.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll"
 -r:"C:\Users\乐\.nuget\packages\Microsoft.AspNetCore.Hosting.Abstractions\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Hosting.Abstractions.dll"
