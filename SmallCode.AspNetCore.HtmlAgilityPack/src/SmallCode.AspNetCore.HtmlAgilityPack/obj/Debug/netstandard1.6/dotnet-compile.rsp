@@ -1,8 +1,8 @@
---temp-output:D:\document\work\frame\SmallCode.HtmlAgilityPack\SmallCode.AspNetCore.HtmlAgilityPack\src\SmallCode.AspNetCore.HtmlAgilityPack\obj\Debug\netcoreapp1.0\
---out:D:\document\work\frame\SmallCode.HtmlAgilityPack\SmallCode.AspNetCore.HtmlAgilityPack\src\SmallCode.AspNetCore.HtmlAgilityPack\bin\Debug\netcoreapp1.0\SmallCode.AspNetCore.HtmlAgilityPack.dll
+--temp-output:D:\document\work\frame\SmallCode.HtmlAgilityPack\SmallCode.AspNetCore.HtmlAgilityPack\src\SmallCode.AspNetCore.HtmlAgilityPack\obj\Debug\netstandard1.6\
+--out:D:\document\work\frame\SmallCode.HtmlAgilityPack\SmallCode.AspNetCore.HtmlAgilityPack\src\SmallCode.AspNetCore.HtmlAgilityPack\bin\Debug\netstandard1.6\SmallCode.AspNetCore.HtmlAgilityPack.dll
 --define:DEBUG
 --define:TRACE
---define:NETCOREAPP1_0
+--define:NETSTANDARD1_6
 --suppress-warning:CS1701
 --suppress-warning:CS1702
 --suppress-warning:CS1705
@@ -14,7 +14,7 @@
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
---target-framework:.NETCoreApp,Version=v1.0
+--target-framework:.NETStandard,Version=v1.6
 --reference:C:\Users\乐\.nuget\packages\Microsoft.AspNetCore.Diagnostics\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Diagnostics.dll
 --reference:C:\Users\乐\.nuget\packages\Microsoft.AspNetCore.Diagnostics.Abstractions\1.0.0\lib\netstandard1.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
 --reference:C:\Users\乐\.nuget\packages\Microsoft.AspNetCore.Hosting.Abstractions\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Hosting.Abstractions.dll

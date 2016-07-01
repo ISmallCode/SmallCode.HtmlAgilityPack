@@ -1,12 +1,12 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v1.0/",
+    "name": ".NETStandard,Version=v1.6/",
     "signature": "f02d78ada8fe6fbc878b483a69a534576950f10f"
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v1.0": {},
-    ".NETCoreApp,Version=v1.0/": {
+    ".NETStandard,Version=v1.6": {},
+    ".NETStandard,Version=v1.6/": {
       "SmallCode.AspNetCore.HtmlAgilityPack/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Diagnostics": "1.0.0",
